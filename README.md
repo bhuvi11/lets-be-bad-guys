@@ -1,5 +1,7 @@
 # Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/320d72fd-b73f-485a-96bd-a176ad747e88.svg?orgId=560723739106)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/lets-be-bad-guys?orgId=560723739106)  
+
 The Internet is a dangerous place, filled with evildoers out to attack your code
 for fun or profit, so it's not enough to just ship your awesome new web app--you
 have to take the security of your application, your users, and your data
